@@ -1,5 +1,5 @@
 Krishi Raksha seeks to overcome the challenges of plant disease and pest diagnosis with the following objectives:
-
+ 
 AI-Powered Diagnostics: Develop an AI-powered application that processes images of plants to diagnose diseases and pests effectively.
 
 Real-Time Results: Provide real-time diagnostic results with actionable recommendations to help farmers take immediate measures.
